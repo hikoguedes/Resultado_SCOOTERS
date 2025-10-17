@@ -3,3 +3,4 @@ sendgrid
 pandas
 numpy
 plotly
+st_echarts
