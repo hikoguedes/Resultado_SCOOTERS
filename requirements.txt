@@ -4,3 +4,4 @@ pandas
 numpy
 plotly
 st_echarts
+streamlit_echarts
