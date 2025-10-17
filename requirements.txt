@@ -1,0 +1,6 @@
+streamlit
+sendgrid
+pandas
+numpy
+plotly
+SENDGRID_API_KEY = "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"

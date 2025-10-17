@@ -1,0 +1,11 @@
+--name=GestaoIdeias
+--windowed
+--onefile
+--icon=icon.ico
+--add-data "ideas.json;."
+--hidden-import=matplotlib
+--hidden-import=networkx
+--hidden-import=tkinter
+--hidden-import=json
+--hidden-import=uuid
+--hidden-import=datetime
